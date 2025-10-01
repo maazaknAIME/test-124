@@ -1,0 +1,59 @@
+# Project Rules
+
+This project uses AIME for development assistance with automatic state tracking.
+
+## Current Plan and TODOs
+
+### Plan
+No active plan yet. Plan will be created when you start working on tasks.
+
+### TODOs
+No active TODOs yet. TODOs will be added when you start working on tasks.
+
+# Lessons Learned
+
+## User Specified Lessons
+(No lessons documented yet)
+
+## AIME Learned  
+(No lessons documented yet)
+
+# Scratchpad
+
+## Cloned Project Analysis
+
+### Project Structure
+- **Total Files**: 110
+- **JavaScript/TypeScript**: 32 files
+- **HTML**: 1 files  
+- **CSS/Styling**: 3 files
+- **Config Files**: 5 files
+- **Documentation**: 2 files
+
+### Key Files Detected
+📦 package.json - Project dependencies and scripts
+🌐 1 HTML file(s) - Web pages
+🚀 2 entry point(s) - Main application files
+📖 README - Project documentation
+
+### Project Type
+React Application
+
+### Current Task
+Repository cloned and analyzed - ready for AI assistance with development tasks
+
+## Progress
+[X] Repository cloned successfully
+[X] Project structure analyzed
+[X] AIME project initialized
+[ ] Ready for development assistance
+
+## Notes
+- All project files are loaded and available for AI analysis
+- Project structure has been categorized for better context
+- Development environment setup based on detected configuration
+
+## Next Steps
+- AI can now assist with understanding, modifying, or extending this project
+- All files are available in the workspace for immediate editing
+- Development server will auto-start if package.json is detected
